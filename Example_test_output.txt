@@ -1,0 +1,70 @@
+
+Wichtel pairs:
+[('Peter', 'Harald'), ('Christine', 'Christine'), ('Harald', 'Heinz'), ('Heinz', 'Franz'), ('Karl', 'Gundula'), ('Gundula', 'Luke'), ('Luke', 'Karl'), ('Franz', 'Peter')]
+Identical pair: (Christine, Christine). Reshuffleing ...
+
+Wichtel pairs:
+[('Peter', 'Karl'), ('Christine', 'Luke'), ('Harald', 'Christine'), ('Heinz', 'Heinz'), ('Karl', 'Harald'), ('Gundula', 'Franz'), ('Luke', 'Peter'), ('Franz', 'Gundula')]
+Identical pair: (Heinz, Heinz). Reshuffleing ...
+
+Wichtel pairs:
+[('Peter', 'Heinz'), ('Christine', 'Harald'), ('Harald', 'Christine'), ('Heinz', 'Gundula'), ('Karl', 'Franz'), ('Gundula', 'Karl'), ('Luke', 'Luke'), ('Franz', 'Peter')]
+Couple as wichtel pair: (Gundula, Karl). Reshuffling ...
+
+Wichtel pairs:
+[('Peter', 'Harald'), ('Christine', 'Franz'), ('Harald', 'Heinz'), ('Heinz', 'Karl'), ('Karl', 'Gundula'), ('Gundula', 'Luke'), ('Luke', 'Peter'), ('Franz', 'Christine')]
+Couple as wichtel pair: (Karl, Gundula). Reshuffling ...
+
+Wichtel pairs:
+[('Peter', 'Franz'), ('Christine', 'Harald'), ('Harald', 'Peter'), ('Heinz', 'Christine'), ('Karl', 'Gundula'), ('Gundula', 'Luke'), ('Luke', 'Heinz'), ('Franz', 'Karl')]
+Couple as wichtel pair: (Karl, Gundula). Reshuffling ...
+
+Wichtel pairs:
+[('Peter', 'Heinz'), ('Christine', 'Luke'), ('Harald', 'Gundula'), ('Heinz', 'Harald'), ('Karl', 'Peter'), ('Gundula', 'Christine'), ('Luke', 'Karl'), ('Franz', 'Franz')]
+Wichtel pair like last time accured: (Harald, Gundula)
+
+Wichtel pairs:
+[('Peter', 'Karl'), ('Christine', 'Heinz'), ('Harald', 'Harald'), ('Heinz', 'Gundula'), ('Karl', 'Peter'), ('Gundula', 'Luke'), ('Luke', 'Franz'), ('Franz', 'Christine')]
+Identical pair: (Harald, Harald). Reshuffleing ...
+
+Wichtel pairs:
+[('Peter', 'Gundula'), ('Christine', 'Karl'), ('Harald', 'Christine'), ('Heinz', 'Luke'), ('Karl', 'Harald'), ('Gundula', 'Franz'), ('Luke', 'Peter'), ('Franz', 'Heinz')]
+Wichtel pair like last time accured: (Christine, Karl)
+
+Wichtel pairs:
+[('Peter', 'Karl'), ('Christine', 'Gundula'), ('Harald', 'Luke'), ('Heinz', 'Christine'), ('Karl', 'Harald'), ('Gundula', 'Peter'), ('Luke', 'Heinz'), ('Franz', 'Franz')]
+Identical pair: (Franz, Franz). Reshuffleing ...
+
+Wichtel pairs:
+[('Peter', 'Christine'), ('Christine', 'Heinz'), ('Harald', 'Gundula'), ('Heinz', 'Franz'), ('Karl', 'Luke'), ('Gundula', 'Harald'), ('Luke', 'Karl'), ('Franz', 'Peter')]
+Couple as wichtel pair: (Peter, Christine). Reshuffling ...
+
+Wichtel pairs:
+[('Peter', 'Harald'), ('Christine', 'Gundula'), ('Harald', 'Peter'), ('Heinz', 'Franz'), ('Karl', 'Karl'), ('Gundula', 'Christine'), ('Luke', 'Heinz'), ('Franz', 'Luke')]
+Identical pair: (Karl, Karl). Reshuffleing ...
+
+Wichtel pairs:
+[('Peter', 'Christine'), ('Christine', 'Luke'), ('Harald', 'Peter'), ('Heinz', 'Heinz'), ('Karl', 'Harald'), ('Gundula', 'Karl'), ('Luke', 'Franz'), ('Franz', 'Gundula')]
+Couple as wichtel pair: (Peter, Christine). Reshuffling ...
+
+Wichtel pairs:
+[('Peter', 'Harald'), ('Christine', 'Gundula'), ('Harald', 'Heinz'), ('Heinz', 'Peter'), ('Karl', 'Luke'), ('Gundula', 'Karl'), ('Luke', 'Christine'), ('Franz', 'Franz')]
+Couple as wichtel pair: (Gundula, Karl). Reshuffling ...
+
+Wichtel pairs:
+[('Peter', 'Christine'), ('Christine', 'Heinz'), ('Harald', 'Luke'), ('Heinz', 'Karl'), ('Karl', 'Harald'), ('Gundula', 'Gundula'), ('Luke', 'Peter'), ('Franz', 'Franz')]
+Couple as wichtel pair: (Peter, Christine). Reshuffling ...
+
+Wichtel pairs:
+[('Peter', 'Karl'), ('Christine', 'Franz'), ('Harald', 'Luke'), ('Heinz', 'Harald'), ('Karl', 'Christine'), ('Gundula', 'Gundula'), ('Luke', 'Peter'), ('Franz', 'Heinz')]
+Wichtel pair like last time accured: (Karl, Christine)
+
+Wichtel pairs:
+[('Peter', 'Harald'), ('Christine', 'Luke'), ('Harald', 'Karl'), ('Heinz', 'Heinz'), ('Karl', 'Christine'), ('Gundula', 'Franz'), ('Luke', 'Peter'), ('Franz', 'Gundula')]
+Identical pair: (Heinz, Heinz). Reshuffleing ...
+
+Wichtel pairs:
+[('Peter', 'Karl'), ('Christine', 'Franz'), ('Harald', 'Peter'), ('Heinz', 'Christine'), ('Karl', 'Harald'), ('Gundula', 'Luke'), ('Luke', 'Heinz'), ('Franz', 'Gundula')]
+
+Final wichtel pairs:
+[('Peter', 'Karl'), ('Christine', 'Franz'), ('Harald', 'Peter'), ('Heinz', 'Christine'), ('Karl', 'Harald'), ('Gundula', 'Luke'), ('Luke', 'Heinz'), ('Franz', 'Gundula')]
