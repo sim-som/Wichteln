@@ -1,70 +1,78 @@
 
 Wichtel pairs:
-[('Peter', 'Harald'), ('Christine', 'Christine'), ('Harald', 'Heinz'), ('Heinz', 'Franz'), ('Karl', 'Gundula'), ('Gundula', 'Luke'), ('Luke', 'Karl'), ('Franz', 'Peter')]
-Identical pair: (Christine, Christine). Reshuffleing ...
+[('Nina', 'Tobias'), ('Robin', 'Simon'), ('Tobias', 'Chrissi'), ('Pedro', 'Christian'), ('Thomas', 'Niklas'), ('Olivia', 'Pedro'), ('Clara', 'Robin'), ('Christian', 'Ruben'), ('Linda', 'Clara'), ('Ruben', 'Linda'), ('Chrissi', 'Thomas'), ('Niklas', 'Olivia'), ('Kathi', 'Nina'), ('Hannah', 'Hannah'), ('Simon', 'Kathi')]
+Wichtel pair like last time accured: (Olivia, Pedro)
 
 Wichtel pairs:
-[('Peter', 'Karl'), ('Christine', 'Luke'), ('Harald', 'Christine'), ('Heinz', 'Heinz'), ('Karl', 'Harald'), ('Gundula', 'Franz'), ('Luke', 'Peter'), ('Franz', 'Gundula')]
-Identical pair: (Heinz, Heinz). Reshuffleing ...
+[('Nina', 'Kathi'), ('Robin', 'Christian'), ('Tobias', 'Pedro'), ('Pedro', 'Linda'), ('Thomas', 'Thomas'), ('Olivia', 'Nina'), ('Clara', 'Chrissi'), ('Christian', 'Ruben'), ('Linda', 'Niklas'), ('Ruben', 'Clara'), ('Chrissi', 'Olivia'), ('Niklas', 'Simon'), ('Kathi', 'Hannah'), ('Hannah', 'Tobias'), ('Simon', 'Robin')]
+Identical pair: (Thomas, Thomas). Reshuffleing ...
 
 Wichtel pairs:
-[('Peter', 'Heinz'), ('Christine', 'Harald'), ('Harald', 'Christine'), ('Heinz', 'Gundula'), ('Karl', 'Franz'), ('Gundula', 'Karl'), ('Luke', 'Luke'), ('Franz', 'Peter')]
-Couple as wichtel pair: (Gundula, Karl). Reshuffling ...
+[('Nina', 'Ruben'), ('Robin', 'Linda'), ('Tobias', 'Simon'), ('Pedro', 'Robin'), ('Thomas', 'Tobias'), ('Olivia', 'Kathi'), ('Clara', 'Niklas'), ('Christian', 'Thomas'), ('Linda', 'Nina'), ('Ruben', 'Hannah'), ('Chrissi', 'Christian'), ('Niklas', 'Pedro'), ('Kathi', 'Olivia'), ('Hannah', 'Clara'), ('Simon', 'Chrissi')]
+Wichtel pair like last time accured: (Nina, Ruben)
 
 Wichtel pairs:
-[('Peter', 'Harald'), ('Christine', 'Franz'), ('Harald', 'Heinz'), ('Heinz', 'Karl'), ('Karl', 'Gundula'), ('Gundula', 'Luke'), ('Luke', 'Peter'), ('Franz', 'Christine')]
-Couple as wichtel pair: (Karl, Gundula). Reshuffling ...
+[('Nina', 'Linda'), ('Robin', 'Nina'), ('Tobias', 'Robin'), ('Pedro', 'Thomas'), ('Thomas', 'Ruben'), ('Olivia', 'Christian'), ('Clara', 'Hannah'), ('Christian', 'Clara'), ('Linda', 'Pedro'), ('Ruben', 'Niklas'), ('Chrissi', 'Chrissi'), ('Niklas', 'Kathi'), ('Kathi', 'Simon'), ('Hannah', 'Tobias'), ('Simon', 'Olivia')]
+Identical pair: (Chrissi, Chrissi). Reshuffleing ...
 
 Wichtel pairs:
-[('Peter', 'Franz'), ('Christine', 'Harald'), ('Harald', 'Peter'), ('Heinz', 'Christine'), ('Karl', 'Gundula'), ('Gundula', 'Luke'), ('Luke', 'Heinz'), ('Franz', 'Karl')]
-Couple as wichtel pair: (Karl, Gundula). Reshuffling ...
+[('Nina', 'Niklas'), ('Robin', 'Olivia'), ('Tobias', 'Hannah'), ('Pedro', 'Tobias'), ('Thomas', 'Ruben'), ('Olivia', 'Thomas'), ('Clara', 'Christian'), ('Christian', 'Nina'), ('Linda', 'Chrissi'), ('Ruben', 'Kathi'), ('Chrissi', 'Simon'), ('Niklas', 'Clara'), ('Kathi', 'Robin'), ('Hannah', 'Pedro'), ('Simon', 'Linda')]
+Couple as wichtel pair: (Olivia, Thomas). Reshuffling ...
 
 Wichtel pairs:
-[('Peter', 'Heinz'), ('Christine', 'Luke'), ('Harald', 'Gundula'), ('Heinz', 'Harald'), ('Karl', 'Peter'), ('Gundula', 'Christine'), ('Luke', 'Karl'), ('Franz', 'Franz')]
-Wichtel pair like last time accured: (Harald, Gundula)
+[('Nina', 'Thomas'), ('Robin', 'Pedro'), ('Tobias', 'Linda'), ('Pedro', 'Ruben'), ('Thomas', 'Simon'), ('Olivia', 'Nina'), ('Clara', 'Chrissi'), ('Christian', 'Robin'), ('Linda', 'Clara'), ('Ruben', 'Tobias'), ('Chrissi', 'Olivia'), ('Niklas', 'Christian'), ('Kathi', 'Niklas'), ('Hannah', 'Hannah'), ('Simon', 'Kathi')]
+Couple as wichtel pair: (Robin, Pedro). Reshuffling ...
 
 Wichtel pairs:
-[('Peter', 'Karl'), ('Christine', 'Heinz'), ('Harald', 'Harald'), ('Heinz', 'Gundula'), ('Karl', 'Peter'), ('Gundula', 'Luke'), ('Luke', 'Franz'), ('Franz', 'Christine')]
-Identical pair: (Harald, Harald). Reshuffleing ...
+[('Nina', 'Pedro'), ('Robin', 'Clara'), ('Tobias', 'Linda'), ('Pedro', 'Chrissi'), ('Thomas', 'Olivia'), ('Olivia', 'Tobias'), ('Clara', 'Hannah'), ('Christian', 'Robin'), ('Linda', 'Thomas'), ('Ruben', 'Christian'), ('Chrissi', 'Niklas'), ('Niklas', 'Simon'), ('Kathi', 'Nina'), ('Hannah', 'Kathi'), ('Simon', 'Ruben')]
+Couple as wichtel pair: (Thomas, Olivia). Reshuffling ...
 
 Wichtel pairs:
-[('Peter', 'Gundula'), ('Christine', 'Karl'), ('Harald', 'Christine'), ('Heinz', 'Luke'), ('Karl', 'Harald'), ('Gundula', 'Franz'), ('Luke', 'Peter'), ('Franz', 'Heinz')]
-Wichtel pair like last time accured: (Christine, Karl)
+[('Nina', 'Kathi'), ('Robin', 'Hannah'), ('Tobias', 'Chrissi'), ('Pedro', 'Niklas'), ('Thomas', 'Olivia'), ('Olivia', 'Tobias'), ('Clara', 'Robin'), ('Christian', 'Clara'), ('Linda', 'Linda'), ('Ruben', 'Christian'), ('Chrissi', 'Thomas'), ('Niklas', 'Nina'), ('Kathi', 'Simon'), ('Hannah', 'Ruben'), ('Simon', 'Pedro')]
+Couple as wichtel pair: (Thomas, Olivia). Reshuffling ...
 
 Wichtel pairs:
-[('Peter', 'Karl'), ('Christine', 'Gundula'), ('Harald', 'Luke'), ('Heinz', 'Christine'), ('Karl', 'Harald'), ('Gundula', 'Peter'), ('Luke', 'Heinz'), ('Franz', 'Franz')]
-Identical pair: (Franz, Franz). Reshuffleing ...
+[('Nina', 'Ruben'), ('Robin', 'Olivia'), ('Tobias', 'Pedro'), ('Pedro', 'Chrissi'), ('Thomas', 'Hannah'), ('Olivia', 'Simon'), ('Clara', 'Robin'), ('Christian', 'Kathi'), ('Linda', 'Linda'), ('Ruben', 'Christian'), ('Chrissi', 'Thomas'), ('Niklas', 'Tobias'), ('Kathi', 'Niklas'), ('Hannah', 'Clara'), ('Simon', 'Nina')]
+Wichtel pair like last time accured: (Nina, Ruben)
 
 Wichtel pairs:
-[('Peter', 'Christine'), ('Christine', 'Heinz'), ('Harald', 'Gundula'), ('Heinz', 'Franz'), ('Karl', 'Luke'), ('Gundula', 'Harald'), ('Luke', 'Karl'), ('Franz', 'Peter')]
-Couple as wichtel pair: (Peter, Christine). Reshuffling ...
+[('Nina', 'Olivia'), ('Robin', 'Christian'), ('Tobias', 'Linda'), ('Pedro', 'Hannah'), ('Thomas', 'Clara'), ('Olivia', 'Niklas'), ('Clara', 'Thomas'), ('Christian', 'Simon'), ('Linda', 'Nina'), ('Ruben', 'Chrissi'), ('Chrissi', 'Ruben'), ('Niklas', 'Pedro'), ('Kathi', 'Kathi'), ('Hannah', 'Tobias'), ('Simon', 'Robin')]
+Wichtel pair like last time accured: (Pedro, Hannah)
 
 Wichtel pairs:
-[('Peter', 'Harald'), ('Christine', 'Gundula'), ('Harald', 'Peter'), ('Heinz', 'Franz'), ('Karl', 'Karl'), ('Gundula', 'Christine'), ('Luke', 'Heinz'), ('Franz', 'Luke')]
-Identical pair: (Karl, Karl). Reshuffleing ...
+[('Nina', 'Christian'), ('Robin', 'Thomas'), ('Tobias', 'Pedro'), ('Pedro', 'Clara'), ('Thomas', 'Simon'), ('Olivia', 'Nina'), ('Clara', 'Chrissi'), ('Christian', 'Linda'), ('Linda', 'Olivia'), ('Ruben', 'Kathi'), ('Chrissi', 'Ruben'), ('Niklas', 'Robin'), ('Kathi', 'Niklas'), ('Hannah', 'Hannah'), ('Simon', 'Tobias')]
+Wichtel pair like last time accured: (Niklas, Robin)
 
 Wichtel pairs:
-[('Peter', 'Christine'), ('Christine', 'Luke'), ('Harald', 'Peter'), ('Heinz', 'Heinz'), ('Karl', 'Harald'), ('Gundula', 'Karl'), ('Luke', 'Franz'), ('Franz', 'Gundula')]
-Couple as wichtel pair: (Peter, Christine). Reshuffling ...
+[('Nina', 'Linda'), ('Robin', 'Hannah'), ('Tobias', 'Christian'), ('Pedro', 'Chrissi'), ('Thomas', 'Robin'), ('Olivia', 'Clara'), ('Clara', 'Nina'), ('Christian', 'Pedro'), ('Linda', 'Thomas'), ('Ruben', 'Tobias'), ('Chrissi', 'Olivia'), ('Niklas', 'Kathi'), ('Kathi', 'Ruben'), ('Hannah', 'Simon'), ('Simon', 'Niklas')]
+Couple as wichtel pair: (Hannah, Simon). Reshuffling ...
 
 Wichtel pairs:
-[('Peter', 'Harald'), ('Christine', 'Gundula'), ('Harald', 'Heinz'), ('Heinz', 'Peter'), ('Karl', 'Luke'), ('Gundula', 'Karl'), ('Luke', 'Christine'), ('Franz', 'Franz')]
-Couple as wichtel pair: (Gundula, Karl). Reshuffling ...
+[('Nina', 'Simon'), ('Robin', 'Ruben'), ('Tobias', 'Niklas'), ('Pedro', 'Robin'), ('Thomas', 'Linda'), ('Olivia', 'Nina'), ('Clara', 'Christian'), ('Christian', 'Chrissi'), ('Linda', 'Hannah'), ('Ruben', 'Pedro'), ('Chrissi', 'Tobias'), ('Niklas', 'Thomas'), ('Kathi', 'Kathi'), ('Hannah', 'Clara'), ('Simon', 'Olivia')]
+Couple as wichtel pair: (Pedro, Robin). Reshuffling ...
 
 Wichtel pairs:
-[('Peter', 'Christine'), ('Christine', 'Heinz'), ('Harald', 'Luke'), ('Heinz', 'Karl'), ('Karl', 'Harald'), ('Gundula', 'Gundula'), ('Luke', 'Peter'), ('Franz', 'Franz')]
-Couple as wichtel pair: (Peter, Christine). Reshuffling ...
+[('Nina', 'Niklas'), ('Robin', 'Nina'), ('Tobias', 'Simon'), ('Pedro', 'Hannah'), ('Thomas', 'Linda'), ('Olivia', 'Ruben'), ('Clara', 'Olivia'), ('Christian', 'Chrissi'), ('Linda', 'Thomas'), ('Ruben', 'Pedro'), ('Chrissi', 'Tobias'), ('Niklas', 'Clara'), ('Kathi', 'Robin'), ('Hannah', 'Christian'), ('Simon', 'Kathi')]
+Wichtel pair like last time accured: (Pedro, Hannah)
 
 Wichtel pairs:
-[('Peter', 'Karl'), ('Christine', 'Franz'), ('Harald', 'Luke'), ('Heinz', 'Harald'), ('Karl', 'Christine'), ('Gundula', 'Gundula'), ('Luke', 'Peter'), ('Franz', 'Heinz')]
-Wichtel pair like last time accured: (Karl, Christine)
+[('Nina', 'Olivia'), ('Robin', 'Robin'), ('Tobias', 'Niklas'), ('Pedro', 'Christian'), ('Thomas', 'Ruben'), ('Olivia', 'Thomas'), ('Clara', 'Simon'), ('Christian', 'Pedro'), ('Linda', 'Chrissi'), ('Ruben', 'Clara'), ('Chrissi', 'Tobias'), ('Niklas', 'Linda'), ('Kathi', 'Nina'), ('Hannah', 'Hannah'), ('Simon', 'Kathi')]
+Identical pair: (Robin, Robin). Reshuffleing ...
 
 Wichtel pairs:
-[('Peter', 'Harald'), ('Christine', 'Luke'), ('Harald', 'Karl'), ('Heinz', 'Heinz'), ('Karl', 'Christine'), ('Gundula', 'Franz'), ('Luke', 'Peter'), ('Franz', 'Gundula')]
-Identical pair: (Heinz, Heinz). Reshuffleing ...
+[('Nina', 'Thomas'), ('Robin', 'Chrissi'), ('Tobias', 'Robin'), ('Pedro', 'Hannah'), ('Thomas', 'Niklas'), ('Olivia', 'Linda'), ('Clara', 'Simon'), ('Christian', 'Pedro'), ('Linda', 'Olivia'), ('Ruben', 'Tobias'), ('Chrissi', 'Ruben'), ('Niklas', 'Kathi'), ('Kathi', 'Christian'), ('Hannah', 'Nina'), ('Simon', 'Clara')]
+Wichtel pair like last time accured: (Robin, Chrissi)
 
 Wichtel pairs:
-[('Peter', 'Karl'), ('Christine', 'Franz'), ('Harald', 'Peter'), ('Heinz', 'Christine'), ('Karl', 'Harald'), ('Gundula', 'Luke'), ('Luke', 'Heinz'), ('Franz', 'Gundula')]
+[('Nina', 'Tobias'), ('Robin', 'Chrissi'), ('Tobias', 'Niklas'), ('Pedro', 'Robin'), ('Thomas', 'Olivia'), ('Olivia', 'Christian'), ('Clara', 'Thomas'), ('Christian', 'Simon'), ('Linda', 'Hannah'), ('Ruben', 'Ruben'), ('Chrissi', 'Pedro'), ('Niklas', 'Nina'), ('Kathi', 'Linda'), ('Hannah', 'Kathi'), ('Simon', 'Clara')]
+Wichtel pair like last time accured: (Robin, Chrissi)
+
+Wichtel pairs:
+[('Nina', 'Chrissi'), ('Robin', 'Tobias'), ('Tobias', 'Robin'), ('Pedro', 'Clara'), ('Thomas', 'Thomas'), ('Olivia', 'Kathi'), ('Clara', 'Linda'), ('Christian', 'Pedro'), ('Linda', 'Simon'), ('Ruben', 'Nina'), ('Chrissi', 'Christian'), ('Niklas', 'Ruben'), ('Kathi', 'Olivia'), ('Hannah', 'Niklas'), ('Simon', 'Hannah')]
+Identical pair: (Thomas, Thomas). Reshuffleing ...
+
+Wichtel pairs:
+[('Nina', 'Linda'), ('Robin', 'Ruben'), ('Tobias', 'Robin'), ('Pedro', 'Thomas'), ('Thomas', 'Christian'), ('Olivia', 'Simon'), ('Clara', 'Chrissi'), ('Christian', 'Hannah'), ('Linda', 'Niklas'), ('Ruben', 'Kathi'), ('Chrissi', 'Nina'), ('Niklas', 'Olivia'), ('Kathi', 'Pedro'), ('Hannah', 'Tobias'), ('Simon', 'Clara')]
 
 Final wichtel pairs:
-[('Peter', 'Karl'), ('Christine', 'Franz'), ('Harald', 'Peter'), ('Heinz', 'Christine'), ('Karl', 'Harald'), ('Gundula', 'Luke'), ('Luke', 'Heinz'), ('Franz', 'Gundula')]
+[('Nina', 'Linda'), ('Robin', 'Ruben'), ('Tobias', 'Robin'), ('Pedro', 'Thomas'), ('Thomas', 'Christian'), ('Olivia', 'Simon'), ('Clara', 'Chrissi'), ('Christian', 'Hannah'), ('Linda', 'Niklas'), ('Ruben', 'Kathi'), ('Chrissi', 'Nina'), ('Niklas', 'Olivia'), ('Kathi', 'Pedro'), ('Hannah', 'Tobias'), ('Simon', 'Clara')]
